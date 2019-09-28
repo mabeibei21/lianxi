@@ -1,8 +1,1 @@
-introduce your program
-=============
-suibina
-
-Ìí¼Ó
-a student
-
-over
+my age is 18
